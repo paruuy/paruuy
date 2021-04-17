@@ -2,14 +2,24 @@
 
 Java Developer and DevOps Engineer with some years of hands-on experience in architecting/automating and optimizing mission-critical deployments over a large infrastructure. Proficient with configuration management tools, and in developing CI / CD pipelines.
 
+- 🔭 I’m currently working on [Santander Bank](https://www.santander.pt)
+- 🌱 I’m currently learning Python, Terraform, AWS and Azure
+- 📫 How to reach me: pablo.rodriguezmar@gmail.com
+
+
 #### Languages
 
-
-[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)]
+![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-fff?&logo=Python&logoColor=007396) 
 
 
 #### Technologies
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-fff?&logo=Kubernetes&logoColor=007396)
+![Openshift](https://img.shields.io/badge/-OpenShift-fff?&logo=OpenShift&logoColor=007396)
+![Terraform](https://img.shields.io/badge/-Terraform-fff?&logo=Terraform&logoColor=007396)
+![Ansible](https://img.shields.io/badge/-Ansible-fff?&logo=Ansible&logoColor=007396)
+![Vault](https://img.shields.io/badge/-Vault-fff?&logo=Vault&logoColor=007396)
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
 ![Azure](https://img.shields.io/badge/-Azure-fff?&logo=Microsoft-Azure&logoColor=blue)
