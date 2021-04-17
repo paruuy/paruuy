@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-Java Developer and DevOps Engineer with some years of hands-on experience in architecting/automating and optimizing mission-critical deployments over a large infrastructure. Proficient with configuration management tools, and in developing CI / CD pipelines.
+I´m a Java Developer/DevOps Engineer with some years of hands-on experience in architecting/automating and optimizing mission-critical deployments over a large infrastructure. Proficient with configuration management tools, and in developing CI / CD pipelines.
 
 - 🔭 I’m currently working on [Santander Bank](https://www.santander.pt)
 - 🌱 I’m currently learning Python, Terraform, AWS and Azure
-- 📫 How to reach me: pablo.rodriguezmar@gmail.com
 
+<code>📫 How to reach me:</code><br><br>
+<a href="https://www.linkedin.com/in/pablorodmar/"><img src="https://img.shields.io/badge/-pablorodmar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:pablo.rodriguezmar@gmail.com"><img src="https://img.shields.io/badge/-pablo.rodriguezmar@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/paruuy"><img src="https://img.shields.io/badge/-@paruuy-informational?style=flat&logo=Twitter&logoColor=white"/></a><br>
 
 #### Languages
 
@@ -30,6 +33,7 @@ Java Developer and DevOps Engineer with some years of hands-on experience in arc
 <br>
 
 ![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=paruuy.visitor-badge)
+
 
 <!--
 **paruuy/paruuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
