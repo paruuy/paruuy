@@ -2,7 +2,6 @@
 
 I´m a Java Developer/DevOps Engineer with some years of hands-on experience in architecting/automating and optimizing mission-critical deployments over a large infrastructure. Proficient with configuration management tools, and in developing CI / CD pipelines.
 
-- 🔭 I’m currently working on [Santander Bank](https://www.santander.pt)
 - 🌱 I’m currently learning Python, Terraform, AWS and Azure
 
 <code>📫 How to reach me:</code><br><br>
