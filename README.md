@@ -26,8 +26,8 @@ I´m a Java Developer/DevOps Engineer with some years of hands-on experience in 
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
 ![Azure](https://img.shields.io/badge/-Azure-fff?&logo=Microsoft-Azure&logoColor=blue)
 
-#### Cheat Sheets
-![Docker](https://gist.github.com/paruuy/e918a8b20517eab6e237b2c85ffa6fe3)
+#### Cheat Sheets - Commands I used as quick reference
+<a href="https://gist.github.com/paruuy/e918a8b20517eab6e237b2c85ffa6fe3"><img src="https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker"/></a>
 
 ## Paruuy's github stats
 <a href="#">
