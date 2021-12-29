@@ -28,6 +28,7 @@ I´m a Java Developer/DevOps Engineer with some years of hands-on experience in 
 
 #### Cheat Sheets - Commands I used as quick reference
 <a href="https://gist.github.com/paruuy/e918a8b20517eab6e237b2c85ffa6fe3"><img src="https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker"/></a>
+<a href="https://gist.github.com/paruuy/2d6190cb97b885af26a7957664afe78b"><img src="https://img.shields.io/badge/-Kubernetes-fff?&logo=Kubernetes&logoColor=007396"/></a>
 
 ## Paruuy's github stats
 <a href="#">
